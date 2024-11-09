@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Kalash22-tech
+- 👀 I’m interested in web development, app development, and creating innovative tech solutions.
+- 🌱 I’m currently learning Python, java,and SQL and full-stack web development to expand my programming toolkit.
+- 💞️ I’m looking to collaborate on hackathons, freelancing projects, and open-source contributions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalashsingh-solanke-aa89a920b) or [Email](mailto:kalash9100@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a pro at Ludo and love adding interactive elements to my web projects!
